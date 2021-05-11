@@ -94,34 +94,34 @@ export default function ScrollableTabsButtonAuto() {
         <Onepoint />
       </TabPanel>
       <TabPanel value={value} index={3}>
-        Item Four
+        coming soon
       </TabPanel>
       <TabPanel value={value} index={4}>
-        Item Five
+        coming soon
       </TabPanel>
       <TabPanel value={value} index={5}>
-        Item Six
+        coming soon
       </TabPanel>
       <TabPanel value={value} index={6}>
-        Item Seven
+        coming soon
       </TabPanel>
       <TabPanel value={value} index={7}>
-        Item Seven
+        coming soon
       </TabPanel>
       <TabPanel value={value} index={8}>
-        Item Seven
+        coming soon
       </TabPanel>
       <TabPanel value={value} index={9}>
-        Item Seven
+        coming soon
       </TabPanel>
       <TabPanel value={value} index={10}>
-        Item Seven
+        coming soon
       </TabPanel>
       <TabPanel value={value} index={11}>
-        Item Seven
+        coming soon
       </TabPanel>
       <TabPanel value={value} index={12}>
-        Item Seven
+        coming soon
       </TabPanel>
       <p>
         {process.env.DIDYOUSEE}
